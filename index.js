@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const routes = require("./src/routes");
-const port = 3090;
+const port = 3030;
 
 routes(app);
 
